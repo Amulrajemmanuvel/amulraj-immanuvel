@@ -27,9 +27,14 @@ src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)  
 ![Scrapy](https://img.shields.io/badge/Scrapy-45A162?style=for-the-badge&logo=Scrapy&logoColor=white)  
 
-## 📈 GitHub Stats  
+## 🎯 Thank You for Visiting!  
 
-![Amulraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gowtham-04P&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-04P&layout=compact&theme=radical)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gowtham-04P&theme=react-dark) 
+⭐ **Feel free to connect and collaborate!**  
+<!--
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Surendhar?theme=light&font=Trade%20Winds)
+-->
