@@ -29,7 +29,7 @@ src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 ## 📈 GitHub Stats  
 
-![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gowtham-04P&show_icons=true&theme=radical)  
+![Amulraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gowtham-04P&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-04P&layout=compact&theme=radical)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gowtham-04P&theme=react-dark) 
 
