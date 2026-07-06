@@ -27,3 +27,9 @@ src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)  
 ![Scrapy](https://img.shields.io/badge/Scrapy-45A162?style=for-the-badge&logo=Scrapy&logoColor=white)  
 
+## 📈 GitHub Stats  
+
+![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gowtham-04P&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-04P&layout=compact&theme=radical)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gowtham-04P&theme=react-dark) 
+
