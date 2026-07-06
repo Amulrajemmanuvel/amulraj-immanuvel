@@ -15,3 +15,15 @@ src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
 
+### 🧠 Programming & Machine Learning  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![Statistics](https://img.shields.io/badge/-Statistics-006699?style=for-the-badge)  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=for-the-badge)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+
+### 🛠️ Web Scraping & Automation  
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)  
+![Scrapy](https://img.shields.io/badge/Scrapy-45A162?style=for-the-badge&logo=Scrapy&logoColor=white)  
+
